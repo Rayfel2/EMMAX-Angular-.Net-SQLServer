@@ -26,7 +26,7 @@ La tienda virtual "EMMAX" es una plataforma en línea completa y atractiva para 
 
 ## Colaboradores
 - Sebastian Fernandez #1102556 (cvstian)
-- Rayfel Ogando #1107535 (Rayfel)
+- Rayfel Ogando #1107535 (Rayfel2)
 - Avis Zucco #1104970 (arinaploplo)
 - Guillermo Jorge #1107266 (guillermusmax)
 
